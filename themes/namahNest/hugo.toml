@@ -18,7 +18,7 @@ canonifyURLs = false
 
   [[menu.main]]
   name = "Ashta Lingam"
-  url = "/blog"
+  url = "/thiru--asta--lingam"
   weight = 20
 
   [[menu.main]]
