@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Page test 2 on Hubstream</title>
+    <title>Blog Page test 2 on Thiruvannamalai Arunachaleswarar Temple – History &amp; Significance</title>
     <link>//localhost:1313/temple/</link>
-    <description>Recent content in Blog Page test 2 on Hubstream</description>
+    <description>Recent content in Blog Page test 2 on Thiruvannamalai Arunachaleswarar Temple – History &amp; Significance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
@@ -49,13 +49,6 @@
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/temple/workship-and-festivals/</guid>
       <description>&lt;h6 id=&#34;grand-festivals--thiruvizha&#34;&gt;&lt;strong&gt;Grand Festivals – Thiruvizha&lt;/strong&gt;&lt;/h6&gt;&#xA;&lt;p&gt;The temple celebrates many festivals every year. The four most important ones are called Thiruvizha (grand festivals).&lt;/p&gt;&#xA;&lt;p&gt;The biggest festival is held during the Tamil month of Karthikai (November–December). It lasts for ten days and ends with the Karthigai Deepam celebration. On this special day, a huge lamp is lit on top of Annamalai Hill, using over three tons of ghee in a large cauldron. This sacred flame is visible from miles away.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post -test</title>
-      <link>//localhost:1313/temple/chatbot/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/temple/chatbot/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

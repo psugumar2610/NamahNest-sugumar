@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybamatica on Hubstream</title>
+    <title>Thiruvannamalai Arunachaleswarar Temple – History &amp; Significance</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Cybamatica on Hubstream</description>
+    <description>Recent content on Thiruvannamalai Arunachaleswarar Temple – History &amp; Significance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
@@ -125,13 +125,6 @@
       <link>//localhost:1313/contactus/contactus/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/contactus/contactus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post -test</title>
-      <link>//localhost:1313/temple/chatbot/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/temple/chatbot/</guid>
       <description></description>
     </item>
   </channel>

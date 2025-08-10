@@ -1,11 +1,11 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Hubstream'
+title = 'Thiruvannamalai Arunachaleswarar Temple – History & Significance'
 theme = 'namahNest'
 canonifyURLs = true
 
 [params]
-  description = 'Cybamatica: AI-powered cybersecurity solutions for proactive, automated, and scalable digital protection.'
+  description = 'Explore Thiruvannamalai’s sacred Arunachaleswarar Temple – history, legends, Girivalam significance, and visitor guide for spiritual seekers.'
 
 [markup]
   [markup.highlight]
