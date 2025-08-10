@@ -1,5 +1,5 @@
 ---
-layout: blog.template
+layout: thiruastalingam
 title: "Indra Lingam (East)"
 date: 2025-05-31
 draft: false

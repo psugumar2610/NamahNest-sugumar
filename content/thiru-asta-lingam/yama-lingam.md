@@ -1,5 +1,5 @@
 ---
-layout: blog.template
+layout: thiruastalingam
 title: "Yama (Ema) Lingam (South)"
 date: 2025-05-24
 draft: false

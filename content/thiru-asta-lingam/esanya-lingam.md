@@ -1,5 +1,5 @@
 ---
-layout: blog.template
+layout: thiruastalingam
 title: "Esanya Lingam (Northeast) "
 date: 2025-05-24
 draft: false

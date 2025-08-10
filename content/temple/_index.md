@@ -1,5 +1,5 @@
 ---
-layout: solutions
+layout: temple
 title: "Blog Page test 2"
 date: 2025-03-20
 draft: false
