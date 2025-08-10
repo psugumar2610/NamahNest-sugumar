@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blog/indra-lingam/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/indra-lingam/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/agni-lingam/</loc>
+    <loc>//localhost:1313/solutions/historical-hindu-temple/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/solutions/historical-hindu-temple/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/agni-lingam/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/solutions/architecture/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/esanya-lingam/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/esanya-lingam/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/solutions/history/</loc>
@@ -23,28 +23,28 @@
     <loc>//localhost:1313/swamy.songs/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/kubera-lingam/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/kubera-lingam/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/solutions/legend/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/niruthi-lingam/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/niruthi-lingam/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/solutions/religious-and-saints/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/varuna-lingam/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/varuna-lingam/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/vayu-lingam/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/vayu-lingam/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/solutions/workship-and-festivals/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/yama-lingam/</loc>
+    <loc>//localhost:1313/thiru-asta-lingam/yama-lingam/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/about/about/</loc>
@@ -59,7 +59,10 @@
     <loc>//localhost:1313/solutions/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>//localhost:1313/thiru--asta--lingam/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/thiru-asta-lingam/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/contactus/contactus/</loc>
