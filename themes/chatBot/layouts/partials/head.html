@@ -27,18 +27,6 @@
 <!-- Heading hierarchy: Use only one <h1> per page, followed by <h2>, <h3>, etc. -->
 
 <!-- JSON-LD Structured Data for Organization -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Cybamatica",
-  "url": "{{ .Site.BaseURL }}",
-  "logo": "{{ "/website-images/brand-logo.svg" | absURL }}",
-  "sameAs": [
-    "https://www.linkedin.com/company/cybamatica/"
-  ]
-}
-</script>
 
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
