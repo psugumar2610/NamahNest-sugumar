@@ -27,7 +27,7 @@ cards:
     fourthRowInfo: "Continuous monitoring & risk assessment"
     trialBtn: "Try our Free Tool"
     image: "/solutions-images/solution001.svg"
-    basetest: /solutions/historical-hindu-temple
+    basetest: /temple/historical-hindu-temple
 
   - title: "Legend"
     description: "Once, a disagreement arose between Lord Brahma and Lord Vishnu. Each one believed that he was greater than the other. To teach them the truth and guide them, Lord Shiva appeared as a huge pillar of endless fire, called the Jyoti Sthambha (Pillar of Light)..."
@@ -42,7 +42,7 @@ cards:
     trialBtn: "Try our Free Tool"
     image: "/solutions-images/solution003.svg"
     imgDirection: "row-reverse"
-    basetest: /solutions/legend
+    basetest: /temple/legend
 
   - title: "History"
     description: "In the 7th century CE, the great Shaivite saints Sambandar and Appar, known as the Nayanmars, praised Annamalaiyar Temple in their devotional hymns called Thevaram. Sekkizhar, the famous poet of the Periyapuranam, also wrote that both Sambandar and Appar visited..."
@@ -56,18 +56,18 @@ cards:
     fourthRowInfo: "Continuous monitoring & risk assessment"
     trialBtn: "Try our Free Tool"
     image: "/solutions-images/solution001.svg"
-    basetest: /solutions/history
+    basetest: /temple/history
 
   - title: "Architecture, Shrines, Halls"
     description: "The Annamalaiyar Temple is located at the base of the Annamalai Hills and faces east. The entire temple complex spreads across 25 acres of land. The outer walls measure about 700 feet (210 meters) on the east and west sides..."
-    basetest: /solutions/architecture
+    basetest: /temple/architecture
 
   - title: "Worship and festivals"
     description: "The temple celebrates many festivals every year. The four most important ones are called Thiruvizha (grand festivals).
     The biggest festival is held during the Tamil month of Karthikai (November–December)..."
-    basetest: /solutions/workship-and-festivals
+    basetest: /temple/workship-and-festivals
 
   - title: "Religious significance, Saints and literary mention"
     description: "In this temple, Shiva appeared as a huge column of fire, known as Akkini Jothi. Even the powerful gods Brahma and Vishnu could not find the top or bottom of this divine flame, showing that Shiva is beyond measurement or limit..."
-    basetest: /solutions/religious-and-saints
+    basetest: /temple/religious-and-saints
 ---

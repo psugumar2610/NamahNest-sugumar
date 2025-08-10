@@ -13,7 +13,7 @@ canonifyURLs = false
 
   [[menu.main]]
   name = "Temple"
-  url = "/solutions"
+  url = "/temple"
   weight = 30
 
   [[menu.main]]
