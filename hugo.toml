@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Hubstream'
-theme = 'chatBot'
+theme = 'namahNest'
 canonifyURLs = true
 
 [params]
