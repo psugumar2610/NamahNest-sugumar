@@ -53,9 +53,6 @@
     <loc>//localhost:1313/about/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/home/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/temple/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,20 +74,8 @@
     <loc>//localhost:1313/temple/chatbot/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/resources/resources/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/resources/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/en/</loc>
-  </url><url>
     <loc>//localhost:1313/tags/</loc>
-  </url><url>
-    <loc>//localhost:1313/ta/</loc>
-  </url><url>
-    <loc>//localhost:1313/te/</loc>
   </url>
 </urlset>
