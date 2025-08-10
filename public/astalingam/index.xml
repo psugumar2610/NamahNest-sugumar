@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs Page on Hubstream</title>
+    <link>//localhost:63426/astalingam/</link>
+    <description>Recent content in Blogs Page on Hubstream</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:63426/astalingam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of AI-Generated Advanced SQL Injections and How LLMs Are Redefining Cyber Threats</title>
+      <link>//localhost:63426/astalingam/indra-lingam/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/indra-lingam/</guid>
+      <description>Indra Lingam – Location The Indra Lingam is situated on the eastern side of the Arunachaleswarar Temple in Thiruvannamalai, along Karu Street. It is the first Lingam encountered on the sacred Girivalam (circumambulation) path. On Pournami (Full Moon) days, devotees begin their Girivalam by offering prayers at this Lingam.&#xA;This Lingam represents the East direction and is associated with the Taurus (Rishabha) and Libra (Tula) zodiac signs. Indra, the King of the Devas (Celestial Beings), is believed to have consecrated this Lingam.</description>
+    </item>
+    <item>
+      <title>AI-Powered Penetration Testing  </title>
+      <link>//localhost:63426/astalingam/ai-powered-penetration-testing/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/ai-powered-penetration-testing/</guid>
+      <description>AI-powered penetration testing is rapidly emerging as the future of threat validation. While traditional methods have long served as a foundational control to understand how systems might be exploited, they fall short in current dynamic enterprise environments. Cloud-native deployments, hybrid IT/OT networks, and rapid code delivery cycles have outpaced conventional models making them inadequate. The problem isn’t that penetration testing has lost relevance, instead, it&amp;rsquo;s that its conventional execution model hasn’t evolved to match the complexity, dynamism, and scale of modern infrastructure.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Co-pilots and their Growing Importance for Industry Experts</title>
+      <link>//localhost:63426/astalingam/copilot-cyber-security/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/copilot-cyber-security/</guid>
+      <description>Cybersecurity threats are constantly evolving, and security professionals are under immense pressure to keep up. From ransomware attacks to advanced persistent threats, the stakes are higher than ever. What if security professionals could reduce manual triage and improve response time without increasing headcount? What if there was a way to have a trusted assistant that could help sift through the noise, identify potential risks, and even provide real-time recommendations?&#xA;This is where AI-driven Cybersecurity Co-pilots come in.</description>
+    </item>
+    <item>
+      <title>How to Protect Public APIs Without API Keys</title>
+      <link>//localhost:63426/astalingam/api-security-guide/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/api-security-guide/</guid>
+      <description>APIs are a core part of how modern web applications work. They enable smooth communication between frontend and backend systems, helping deliver seamless user experiences. Typically, APIs are secured with authentication mechanisms like API keys, OAuth tokens, or JWTs. However, there are valid cases where exposing an unauthenticated public API is both necessary and beneficial. For example, a news website might share trending articles via an open endpoint, or a weather app might display public forecasts.</description>
+    </item>
+    <item>
+      <title>How to Secure Your Website by Replacing SSL with TLS 1.2 and 1.3</title>
+      <link>//localhost:63426/astalingam/ssl-vs-tls/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/ssl-vs-tls/</guid>
+      <description>Millions of websites still rely on outdated SSL encryption, leaving sensitive data exposed to cyberattacks. While many website owners and developers refer to their HTTPS configurations as “SSL encryption,” this term is outdated and inaccurate. SSL (Secure Sockets Layer) is no longer secure, unsupported by modern browsers, and insufficient for protecting sensitive communications.&#xA;Today’s encryption standards rely on TLS (Transport Layer Security), the protocol that officially replaced SSL more than two decades ago.</description>
+    </item>
+    <item>
+      <title>HTTPS Does Not Guarantee Security: The Critical Role of Cipher Suites in Protecting Your Website</title>
+      <link>//localhost:63426/astalingam/https-doesnnt-mean-safe/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/https-doesnnt-mean-safe/</guid>
+      <description>The widespread adoption of HTTPS, indicated by the familiar padlock icon in browsers, is often misunderstood as a guarantee of website security. However, while HTTPS signals encrypted communication, the actual security depends on the strength of the cipher suites and protocol versions your server supports. Misconfigured or outdated cipher suites expose websites to critical vulnerabilities, even when HTTPS is enabled.&#xA;This article provides an in-depth technical examination of cipher suites, explores well-documented attacks such as POODLE, and presents concrete configuration guidance and code examples for securing your SSL/TLS deployments.</description>
+    </item>
+    <item>
+      <title>Invisible Entry Points: Why DNS, Ports, and IP Hygiene Define Web Security</title>
+      <link>//localhost:63426/astalingam/hidden-attack-paths/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/hidden-attack-paths/</guid>
+      <description>When securing a website, many focus on the obvious security aspects such as HTTPS, regular updates, and reputable hosting providers. But even if you’ve done all the right things on the surface, your website might still be vulnerable if foundational elements like DNS, open ports, and IP security aren’t properly configured. These seemingly &amp;ldquo;invisible&amp;rdquo; components can become attack vectors that expose your infrastructure to significant risks.&#xA;In this article, we will cover the importance of DNS, port security, and IP protection by discussing the potential security threats associated with these elements, their role in web hosting environments, and how you can fortify them against attack.</description>
+    </item>
+    <item>
+      <title>Your IP Address Is Not as Safe as You Think: The Dangers of Shared Hosting</title>
+      <link>//localhost:63426/astalingam/ip-protection-matter/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/ip-protection-matter/</guid>
+      <description>Your website might be up and running with a trusted provider, secured with HTTPS, and fully optimized, but there’s more to the story. If your DNS settings are misconfigured, ports are left open, or your IP address lacks proper safeguards, your website could still be at serious risk.&#xA;DNS, port exposure, and IP security play critical roles in shaping your digital perimeter. Even with strong application-layer defenses, weaknesses at these foundational levels can lead to attacks, data breaches, and service disruptions.</description>
+    </item>
+    <item>
+      <title>Your website can have a shared IP Address: The Dangers of Shared Hosting</title>
+      <link>//localhost:63426/astalingam/shared-ip-risks/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:63426/astalingam/shared-ip-risks/</guid>
+      <description>After setting up a website with a trusted hosting provider and securing it with HTTPS, it’s natural to assume your website is airtight. However, if your site is hosted on a shared IP address, it could be coexisting with dozens or even hundreds of other websites, some of which may be compromised, hosting malware, or blacklisted. In such cases, a security breach on one of those websites could indirectly affect your own, putting your reputation and visibility at risk.</description>
+    </item>
+  </channel>
+</rss>
