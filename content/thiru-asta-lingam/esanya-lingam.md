@@ -1,5 +1,5 @@
 ---
-layout: thiruastalingam
+layout: thiruastalingam.template
 title: "Esanya Lingam (Northeast) "
 date: 2025-05-24
 draft: false

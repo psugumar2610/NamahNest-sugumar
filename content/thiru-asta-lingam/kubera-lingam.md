@@ -1,5 +1,5 @@
 ---
-layout: thiruastalingam
+layout: thiruastalingam.template
 title: "Kubera Lingam (North)"
 date: 2025-05-24
 draft: false
