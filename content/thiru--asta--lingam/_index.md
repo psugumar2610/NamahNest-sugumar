@@ -1,5 +1,5 @@
 ---
-layout: blogcards
+layout: astalingamcards
 title: "Blogs Page"
 date: 2025-03-20
 draft: false
@@ -10,7 +10,7 @@ blogs:
 
 cards:
   - title: "1. Arulmigu Indra Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840442/thumbsize=59024,111840442.jpg"
+    swamyImage: "indralingam.webp"
     category: SQL Injection Protection
     description: "The Indra Lingam is situated on the eastern side of the Arunachaleswarar Temple in Thiruvannamalai..."
     link: Read More
@@ -19,7 +19,7 @@ cards:
     CustomDate: 2025-07-03
 
   - title: "2. Arulmigu Agni Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840439/thumbsize=78636,111840439.jpg"
+    swamyImage: "agnilingam.webp"
     category: IP Security
     description: "The Agni Lingam is located on the southeastern stretch of the Girivalam path in Thiruvannamalai,..."
     link: Read More
@@ -28,7 +28,7 @@ cards:
     CustomDate: 2025-06-26
 
   - title: "3. Arulmigu Yama Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840437/thumbsize=91294,111840437.jpg"
+    swamyImage: "yamalingam.webp"
     category: DNS Security
     description: "The Yama Lingam is located on the southern side of the Girivalam (circumambulation) path in Thiruvannamalai..."
     link: Read More
@@ -37,7 +37,7 @@ cards:
     CustomDate: 2025-06-19
 
   - title: "4. Arulmigu Niruthi Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840435/thumbsize=100074,111840435.jpg"
+    swamyImage: "nirthilingam.webp"
     category: API Security
     description: "The Niruthi Lingam is located on the southwestern side of the Girivalam path in Thiruvannamalai..."
     link: Read More
@@ -46,7 +46,7 @@ cards:
     CustomDate: 2025-06-12
 
   - title: "5. Arulmigu Varuna Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840434/thumbsize=85594,111840434.jpg"
+    swamyImage: "varunalingam.webp"
     category: TLS Security
     description: "The Varuna Lingam is situated on the western side of the sacred Girivalam path in Thiruvannamalai..."
     link: Read More
@@ -55,7 +55,7 @@ cards:
     CustomDate: 2025-06-05
 
   - title: "6. Arulmigu Vayu Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840433/thumbsize=83120,111840433.jpg"
+    swamyImage: "vayulingam.webp"
     category: Cipher Security
     description: "The Vayu Lingam is located on the northwestern side of the Girivalam path in Thiruvannamalai..."
     link: Read More
@@ -64,7 +64,7 @@ cards:
     CustomDate: 2025-05-29
 
   - title: "7. Arulmigu Kubera Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840432/thumbsize=81286,111840432.jpg"
+    swamyImage: "kuberalingam.webp"
     category: Port Security
     description: "The Kubera Lingam is located on the northern side of the Girivalam path in Thiruvannamalai..."
     link: Read More
@@ -73,7 +73,7 @@ cards:
     CustomDate: 2025-05-22
 
   - title: "8. Arulmigu Eesanya Lingam"
-    swamyImage: "https://tamilimages.timesnownews.com/photo/msid-111840431/thumbsize=77758,111840431.jpg"
+    swamyImage: "esanyalingam.webp"
     category: Copilot
     description: "The Esanya Lingam is located on the northeastern side of the Girivalam path in Thiruvannamalai..."
     link: Read More

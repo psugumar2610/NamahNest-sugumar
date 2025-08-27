@@ -1,5 +1,5 @@
 ---
-layout: blog.template
+layout: thiruastalingam.template
 title: "Agni Lingam (Southeast)"
 date: 2025-05-24
 draft: false

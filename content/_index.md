@@ -1,7 +1,5 @@
 ---
-layout: blog
-title: "Cybamatica"
-date: 2025-03-20
+title: "Thiruvannamalai Arunachaleswarar Temple – History & Significance"
 draft: false
 LeftImage: home-images/gradient-banner-image.svg
 Top:
