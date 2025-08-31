@@ -1,6 +1,6 @@
 ---
 layout: astalingamcards
-title: "Blogs Page"
+title: "Thiruvannamalai"
 date: 2025-03-20
 draft: false
 LeftImage: home-images/banner-left-image.svg
