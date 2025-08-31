@@ -56,19 +56,19 @@
     <loc>//localhost:1313/about/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/temple/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/thiru--asta--lingam/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/thiru-asta-lingam/</loc>
+    <loc>//localhost:1313/temple/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/contactus/contactus/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/contactus/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/thiru-asta-lingam/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>

@@ -3,7 +3,7 @@ title: "Thiruvannamalai Arunachaleswarar Temple – History & Significance"
 draft: false
 LeftImage: home-images/gradient-banner-image.svg
 Top:
-  Header: "Sri Annamalaiyar – The Eternal Lord of Thiruvannamalai"
+  Header: "Arulmigu Annamalaiyar – The Eternal Lord of Thiruvannamalai"
   SubHeader: "Discover the sacred abode of Lord Shiva, where divinity meets devotion at the foot of Annamalai Hills."
   buttonText: "Temple"
   buttonTrial: "Thiruvasagam"
