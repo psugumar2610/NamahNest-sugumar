@@ -3,10 +3,10 @@ title: "Thiruvannamalai Arunachaleswarar Temple – History & Significance"
 draft: false
 LeftImage: home-images/gradient-banner-image.svg
 Top:
-  Header: "Lorem Ipsum is simply dummy text of the printing."
-  SubHeader: "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
-  buttonText: "Lorem Ipsum"
-  buttonTrial: "Lorem Ipsum Is"
+  Header: "Sri Annamalaiyar – The Eternal Lord of Thiruvannamalai"
+  SubHeader: "Discover the sacred abode of Lord Shiva, where divinity meets devotion at the foot of Annamalai Hills."
+  buttonText: "Temple"
+  buttonTrial: "Thiruvasagam"
 bottom:
   Header: "Blogs"
   SubHeader: "Stay Ahead with Expert Insights Explore the latest in AI-driven cybersecurity, best practices, and emerging threats"
