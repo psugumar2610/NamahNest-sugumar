@@ -1,0 +1,20 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Thiruvannamalai Arunachaleswarar Temple – History & Significance'
+theme = 'namahNest'
+canonifyURLs = true
+
+[params]
+  description = 'Explore Thiruvannamalai’s sacred Arunachaleswarar Temple – history, legends, Girivalam significance, and visitor guide for spiritual seekers.'
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "github"
+    useClasses = false
+    lineNos = false
+    codeFences = true  # Ensure code block fences are enabled
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      attribute = true
+
