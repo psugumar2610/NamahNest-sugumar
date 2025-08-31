@@ -26,6 +26,11 @@ canonifyURLs = false
   url = "/swamy.songs"
   weight = 40
 
+  [[menu.main]]
+  name = "ABOUT THE AUTHOR"
+  url = "/swamy.songs"
+  weight = 50
+
 [markup]
   [markup.highlight]
     noClasses = false
