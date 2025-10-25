@@ -28,7 +28,7 @@ canonifyURLs = false
 
   [[menu.main]]
   name = "ABOUT THE AUTHOR"
-  url = "/swamy.songs"
+  url = "/sugumar/index.html"
   weight = 50
 
 [markup]
