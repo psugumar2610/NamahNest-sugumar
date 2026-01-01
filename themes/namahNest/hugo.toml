@@ -26,7 +26,6 @@ canonifyURLs = false
   url = "/swamy.songs"
   weight = 40
 
-
 [markup]
   [markup.highlight]
     noClasses = false
