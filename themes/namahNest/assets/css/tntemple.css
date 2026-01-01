@@ -312,9 +312,9 @@ display: grid;
     transition: all 0.5s;
 }
 
-#th-templecourse-content .th-templecourse-content-area .th-templecourse-details {
+/* #th-templecourse-content .th-templecourse-content-area .th-templecourse-details {
     background-color: #FFF;
-}
+} */
 
 #th-templecourse-content .th-templecourse-content-area .th-templecourse-details .th-templelatest-course-single {
     border: none;

@@ -346,6 +346,13 @@
           margin-top: 20px;
           margin-bottom: 10px;
      }
+     .ls-layout-wrapper,
+     .th-templecourse-content-area {
+          margin-top: 85px;
+     }
+     .img-wrappeer-sidenav {
+          display: none;
+     }
 }
 
 /* ==========================================================================
