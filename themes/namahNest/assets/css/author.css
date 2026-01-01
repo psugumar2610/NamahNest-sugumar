@@ -254,6 +254,9 @@ border: 1px solid var(--first-color);
 }
 
 @media screen and (max-width: 768px) {
+    .about-container .about-data {
+        margin-top: 0 !important;
+    }
     .section { padding: 4.5rem 0 2rem; }
     .nav { height: var(--header-height); }
     .nav-menu { position: fixed; background-color: var(--container-color); top: 0; right: -100%; width: 80%; height: 100%; padding: 4rem 0 0 3rem; box-shadow: -2px 0 4px hsla(250, 24%, 15%, 0.1); }
@@ -286,6 +289,9 @@ border: 1px solid var(--first-color);
 }
 
 @media screen and (max-width: 576px) {
+    .about-container .about-data {
+        margin-top: 0 !important;
+    }
     .home-title { line-height: 60px; margin-bottom: 1rem; }
     .home-subtitle { margin-bottom: 0.5rem; }
     .swiper-slide { width: 50% !important; }
