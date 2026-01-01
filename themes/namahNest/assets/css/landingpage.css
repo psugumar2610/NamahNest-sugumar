@@ -1,11 +1,11 @@
 /* ==========================================================================
-   Author: Devarajan, Sugumar Parthasarathy
+   
    Description: Custom CSS for Home Page styling.
 ========================================================================== */
 
 /* header style start here */
 
-.cybamatica-brand-logo {
+.annamalaiyar-brand-logo {
     font-size: 30px;
     font-weight: 600;
     color: var(--primary-color);

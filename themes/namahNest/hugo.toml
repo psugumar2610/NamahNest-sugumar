@@ -27,9 +27,11 @@ canonifyURLs = false
   weight = 40
 
   [[menu.main]]
-  name = "ABOUT THE AUTHOR"
-  url = "/sugumar/index.html"
+  name = "Author"
+  url = "/author"
   weight = 50
+  params = { target = "_blank" }
+
 
 [markup]
   [markup.highlight]

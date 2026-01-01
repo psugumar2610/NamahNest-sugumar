@@ -3,16 +3,11 @@ title: "Thiruvannamalai Arunachaleswarar Temple – History & Significance"
 draft: false
 LeftImage: home-images/gradient-banner-image.svg
 Top:
-  Header: "Sri Annamalaiyar – The Eternal Lord of Thiruvannamalai"
+  Header: "Arulmigu Annamalaiyar – The Eternal Supreme Lord of Thiruvannamalai"
   SubHeader: "Discover the sacred abode of Lord Shiva, where divinity meets devotion at the foot of Annamalai Hills."
   buttonText: "Temple"
   buttonTrial: "Thiruvasagam"
-bottom:
-  Header: "Blogs"
-  SubHeader: "Stay Ahead with Expert Insights Explore the latest in AI-driven cybersecurity, best practices, and emerging threats"
-  # infoHeader: "Book a personalized demo or talk to our team to find the right solution for your needs."
-  buttonText: "Schedule a Demo"
-  buttonTrial: "READ OUR BLOG"
+
 homeblogs:
     - category: "SQL Injection Protection"
       title: "The Rise of AI-Generated Advanced SQL Injections and How LLMs Are Redefining Cyber Threats"
