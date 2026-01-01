@@ -1,8 +1,9 @@
-baseURL = '/'
-languageCode = 'en-us'
+baseURL = "https://psugumar2610.github.io/"
+relativeURLs = true
+
+
 title = 'Thiruvannamalai Arunachaleswarar Temple – History & Significance'
 theme = 'namahNest'
-canonifyURLs = true
 
 [params]
   description = 'Explore Thiruvannamalai’s sacred Arunachaleswarar Temple – history, legends, Girivalam significance, and visitor guide for spiritual seekers.'

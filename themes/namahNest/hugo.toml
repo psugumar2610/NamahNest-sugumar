@@ -1,11 +1,12 @@
-baseURL = "https://example.org/"
-languageCode = "en-us"
-title = "Dynamic Hugo Menu Example"
-canonifyURLs = false
+baseURL = "https://psugumar2610.github.io/NamahNest-sugumar/"
+relativeURLs = true
+canonifyURLs = true
+
+title = "NamahNest"
+theme = "namahNest"
+
 
 [menu]
-
-
   [[menu.main]]
   name = "Home"
   url = "/"
